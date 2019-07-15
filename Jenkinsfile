@@ -15,10 +15,6 @@ node {
             echo "Tests passed"
     }
  	
-    stage('Push image'){
-	/*docker.withRegistry('<<your-docker-registry>>', '<<your-docker-registry-credentials-id>>') {*/
-    }
-        
 }
 //https://github.com/saleem1308/NodeApp.git
 
