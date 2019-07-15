@@ -16,7 +16,7 @@ node {
     }
  	
     stage('Push image'){
-	//docker.withRegistry('<<your-docker-registry>>', '<<your-docker-registry-credentials-id>>') {
+	/*docker.withRegistry('<<your-docker-registry>>', '<<your-docker-registry-credentials-id>>') {*/
     }
         
 }
